@@ -1,7 +1,7 @@
-# First Project
+# JDM W3B
 
 Clear html + css + figma + pinterest page w/o frameworks and library
 
-JDM PROJECT 1999 - 2025 
+JDM W3B PROJECT 1999 - 2025 
 
 © wsupmfth 2024
