@@ -12,12 +12,12 @@ body{
 }
 
 .imagesm{
- width: 8.5vw;
+ width: 7.5vw;
  border-radius: 10px;
 }
 
-.libre-barcode-39-extended-regular {
-    font-family: "Libre Barcode 39 Extended", system-ui;
+.libre-barcode-39-extended-text-regular {
+    font-family: "Libre Barcode 39 Extended Text", system-ui;
     font-weight: 400;
     font-style: normal;
 }
@@ -52,13 +52,12 @@ body{
 
 .grid1{
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
+    grid-template-columns: repeat(11, 1fr);
     gap: 30px
 }
 
 .grid2{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     grid-column: span 3;
 }
 
@@ -68,8 +67,7 @@ body{
 
 .grid4{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-column: span 4;
+    grid-column: span 3;
 }
 
 .fullwidth{
